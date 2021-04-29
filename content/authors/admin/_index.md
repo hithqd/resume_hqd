@@ -6,12 +6,12 @@ title: Qingdong He
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Postgraduate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: University of Electronic Science and Technology of China
+  url: https://www.uestc.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -74,4 +74,4 @@ highlight_name: false
 
 Qingdong He received his B.S. degree from the College of Electronic and Information Engineering, Harbin Institute of Technology (HIT), China in 2018. He is currently a master student in the College of Signal and Information Processing, University of Electronic Science and Technology of China (UESTC), China.
 
-#{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
