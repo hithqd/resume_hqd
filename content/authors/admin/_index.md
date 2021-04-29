@@ -29,7 +29,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: MEng in Signal and Information Processing
+  - course: Master of Signal and Information Processing
     institution: University of Electronic Science and Technology of China
     year: 2018-2021
   - course: BSc in Electronic Information Engineering
