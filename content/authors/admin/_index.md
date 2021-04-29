@@ -29,10 +29,10 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
+  - course: MEng in Signal and Information Processing
     institution: University of Electronic Science and Technology of China
     year: 2018-2021
-  - course: MEng in Artificial Intelligence
+  - course: BSc in Electronic Information Engineering
     institution: Harbin Institute of Technology
     year: 2014-2018
 
