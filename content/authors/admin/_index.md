@@ -74,4 +74,4 @@ highlight_name: false
 
 Qingdong He received his B.S. degree from the College of Electronic and Information Engineering, Harbin Institute of Technology (HIT), China in 2018. He is currently a master student in the College of Signal and Information Processing, University of Electronic Science and Technology of China (UESTC), China.
 
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
