@@ -14,7 +14,7 @@ organizations:
   url: https://www.uestc.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include 2D and 3D Computer vision, object detection and tracking and point cloud.
 
 # Interests to show in About widget
 interests:
@@ -30,11 +30,11 @@ interests:
 education:
   courses:
   - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
+    institution: University of Electronic Science and Technology of China
+    year: 2018-2021
   - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
+    institution: Harbin Institute of Technology
+    year: 2014-2018
 
 
 # Social/Academic Networking
@@ -45,18 +45,13 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=gUJWww0AAAAJ&hl=zh-CN
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://github.com/hithqd
+
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
