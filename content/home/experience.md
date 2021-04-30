@@ -30,6 +30,15 @@ experience:
     date_start: '2020-05-01'
     date_end: ''
     description: |2-
+    
+  - title: Image and video coding
+    company: Image Processing Institute, UESTC
+    company_url: ''
+    company_logo: uestc
+    location: China
+    date_start: '2019-06-01'
+    date_end: '2020-04-30'
+    description: |2-
 
 
 design:
