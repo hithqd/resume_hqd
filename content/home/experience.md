@@ -29,7 +29,7 @@ experience:
     location: China
     date_start: '2014-09-01'
     date_end: '2018-06-30'
-    description: |2-
+    description: 
         Responsibilities include:
         
         * Analysing
@@ -45,14 +45,14 @@ experience:
     date_end: '2021-06-31'
     description: Taught electronic engineering and researched semiconductor physics.
 
-    - title: Professor of Semiconductor Physics
+  - title: Professor of Semiconductor Physics
     company: University X
     company_url: ''
     company_logo: org-x
     location: California
-    date_start: '2020-03'
-    date_end: '2020-07'
+    date_start: '2020-03-36'
+    date_end: '2020-07-01'
     description: Taught electronic engineering and researched semiconductor physics.
 design:
-  columns: '2'
+  columns: '3'
 ---
