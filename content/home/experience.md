@@ -25,10 +25,10 @@ experience:
   - title: compressed Low-light Image Enhancement
     company: Image Processing Institute, UESTC
     company_url: ''
-    company_logo: uestc
+    company_logo: hit
     location: China
-    date_start: '2020-05-01'
-    date_end: ''
+    date_start: '2014-09-01'
+    date_end: '2018-06-30'
     description: |2-
     
   - title: Image and video coding
@@ -36,10 +36,18 @@ experience:
     company_url: ''
     company_logo: uestc
     location: China
+    date_start: '2018-09-01'
+    date_end: '2021-06-30'
+    description: |2-
+
+  - title: Image and video coding
+    company: Image Processing Institute, UESTC
+    company_url: ''
+    company_logo: tx
+    location: China
     date_start: '2019-06-01'
     date_end: '2020-04-30'
     description: |2-
-
 
 design:
   columns: '2'
