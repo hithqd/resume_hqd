@@ -94,15 +94,6 @@ experience:
     date_end: '2020-04-30'
     description: |2-
 
-        
-  - title: Arduino-based automatic soil irrigation system
-    company: IoT Lab, James Cook University
-    company_url: 'https://www.jcu.edu.au/college-of-science-and-engineering/internet-of-things'
-    company_logo: JCU
-    location: Australia
-    date_start: '2017-07-20'
-    date_end: '2017-08-06'
-    description: 
 
 design:
   columns: '2'
