@@ -29,7 +29,7 @@ experience:
     location: China
     date_start: '2014-09-01'
     date_end: '2018-06-30'
-    description: 
+    description: |2-
         Responsibilities include:
         
         * Analysing
@@ -43,16 +43,21 @@ experience:
     location: California
     date_start: '2018-09-01'
     date_end: '2021-06-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description:  |2-
+        Responsibilities include:
+        
+        * Analysing
+        * Modelling
+        * Deploying
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Image and video coding
+    company: Image Processing Institute, UESTC
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2020-03-36'
-    date_end: '2020-07-01'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: uestc
+    location: China
+    date_start: '2019-06-01'
+    date_end: '2020-04-30'
+    description: |2-
 design:
   columns: '3'
 ---
