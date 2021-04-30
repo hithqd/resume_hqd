@@ -59,5 +59,5 @@ experience:
     date_end: '2020-04-30'
     description: |2-
 design:
-  columns: '3'
+  columns: '2'
 ---
