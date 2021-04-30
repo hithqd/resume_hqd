@@ -22,8 +22,8 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: compressed Low-light Image Enhancement
-    company: Undergraduate
+  - title: Undergraduate of Electronic Information Engineering
+    company: Harbin Institute of Technology
     company_url: ''
     company_logo: hit
     location: China
@@ -49,14 +49,6 @@ experience:
     date_end: '2020-04-30'
     description: |2-
     
-  - title: compressed Low-light Image Enhancement
-    company: Undergraduate
-    company_url: ''
-    company_logo: hit
-    location: China
-    date_start: '2014-09-01'
-    date_end: '2018-06-30'
-    description: |2-
 design:
   columns: '2'
 ---
