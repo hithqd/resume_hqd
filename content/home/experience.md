@@ -45,8 +45,8 @@ experience:
     company_url: ''
     company_logo: tx
     location: China
-    date_start: '2019-06-01'
-    date_end: '2020-04-30'
+    date_start: '2020-03-26'
+    date_end: '2020-07-01'
     description: |2-
     
 design:
